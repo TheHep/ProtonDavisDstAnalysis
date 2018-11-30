@@ -11,6 +11,17 @@
 
 #Installation
 	
+	 Getting the Code - You can clone the DavisDSTAnalysis repository into a 
+	 directory of you choice by doing: 
+	 git clone 
+	 Then, get the code of the submodules by doing: 
+	 
+	 	git submodule init 
+		git submodule update 
+	 
+	 If you are prompted for a password at any time during this process simply hit enter. 
+	 After this completes you will have all the code.
+	
 	Compile code with "make" in directory davisdstanaylsis/.
 
 #Run
