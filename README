@@ -13,11 +13,7 @@
 	
 	 Getting the Code - You can clone the DavisDSTAnalysis repository into a 
 	 directory of you choice by doing: 
-	 git clone https://sheppel@bitbucket.org/sheppel/protondavisdstanalysis.git 
-	 Then, get the code of the submodules by doing: 
-	 
-	 	git submodule init 
-		git submodule update 
+	 git clone https://sheppel@bitbucket.org/sheppel/protondavisdstanalysis.git  
 	 
 	 If you are prompted for a password at any time during this process simply hit enter. 
 	 After this completes you will have all the code.
