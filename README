@@ -3,17 +3,28 @@
 	DavisDstAnalysis is a collection of compiled root macros to create AuAu proton 
 	spectra and dndy for the 2015 data.
 
-#Authors
+##Authors
 
 	Samuel Heppelmann, Kathryn Meehan and Chris Flores.
 	For any questions, please email sheppelmann@gmail.com
 
 
-#Installation
+##Installation
+	
+	 Getting the Code - You can clone the DavisDSTAnalysis repository into a 
+	 directory of you choice by doing: 
+	 git clone https://sheppel@bitbucket.org/sheppel/protondavisdstanalysis.git 
+	 Then, get the code of the submodules by doing: 
+	 
+	 	git submodule init 
+		git submodule update 
+	 
+	 If you are prompted for a password at any time during this process simply hit enter. 
+	 After this completes you will have all the code.
 	
 	Compile code with "make" in directory davisdstanaylsis/.
 
-#Run
+##Run
 
 	In the directory davisdstanalysis/scripts/. are a list of scripts to run the analysis.
 	
